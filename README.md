@@ -1,7 +1,6 @@
-# Group A - Lab Review
-Working through some common issues with Git and GitHub  
-reviewing how workflow works
+! [Phase One of the MCU] (marvel_banner.png "MCU Phase 1")
 
-##changing more stuff to break it...
-bitch i don't need help breaking things, i'm a pro.
+# All About the MCU
+A retrospective on Pashe 1 of the Marvel Cinematic Universe
+
 
