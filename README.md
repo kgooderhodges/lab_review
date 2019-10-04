@@ -2,6 +2,6 @@
 Working through some common issues with Git and GitHub  
 reviewing how workflow works
 
-## this is what you need to make the project work:
-some specs go here
+##changing more stuff to break it...
+bitch i don't need help breaking things, i'm a pro.
 
